@@ -1,7 +1,9 @@
 from trie import Trie
-from data import *
-from hashmap import HashMap
 from linkedlist import LinkedList
+from hashmap import HashMap
+from data import *
+
+
 
 print("* Welcome to SoHo Restaurants! *")
 
