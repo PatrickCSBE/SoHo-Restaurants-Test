@@ -1,6 +1,8 @@
+#import der Struktur
 from trie import Trie
 from linkedlist import LinkedList
 from hashmap import HashMap
+#import der daten
 from data import *
 
 
